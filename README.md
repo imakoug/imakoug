@@ -1,5 +1,5 @@
 # Hey there! I'm Pavlo 👋
-# 🚀 A Passionate Software Engineer, Crafting Scalable Backends and Polished User Experiences
+# A Passionate Software Engineer, Crafting Scalable Backends and Polished User Experiences 🚀
 
 💡 Always curious and driven, I love diving into new technologies and problem-solving with efficiency and creativity at the forefront.
 
